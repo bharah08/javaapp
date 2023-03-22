@@ -7,8 +7,7 @@ pipeline{
         stage('Git Checkout'){
             
             steps{
-                
-                script{
+               
                     
                     echo "hello jenkins"
                 }
